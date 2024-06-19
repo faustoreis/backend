@@ -1,7 +1,9 @@
 # backend
 
-Node JS
-Express JS
+Node JS,
+
+Express JS,
+
 acessando banco de dados em MYSQL
 
 estrutura da tabela esta no script contato.sql 
